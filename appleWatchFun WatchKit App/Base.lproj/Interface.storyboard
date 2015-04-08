@@ -87,8 +87,8 @@
             <objects>
                 <controller identifier="SettingsScreen" backgroundImage="background3" id="bol-q2-JbY" customClass="SettingsInterfaceController">
                     <items>
-                        <label width="1" height="1" alignment="left" text="Settings!" textAlignment="center" id="f6h-Mz-gep">
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <label width="1" height="1" alignment="left" text="Settings!" textAlignment="center" id="ec1-X6-svV">
+                            <color key="textColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                             <fontDescription key="font" type="system" weight="light" pointSize="20"/>
                         </label>
                     </items>

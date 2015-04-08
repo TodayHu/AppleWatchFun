@@ -13,6 +13,7 @@
 		3C5CFAD71AD4B9CD00B9FD68 /* SettingsInterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C5CFAD61AD4B9CD00B9FD68 /* SettingsInterfaceController.m */; };
 		3C5CFADA1AD4BA6100B9FD68 /* HelpInterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C5CFAD91AD4BA6100B9FD68 /* HelpInterfaceController.m */; };
 		3C5CFADD1AD4BAE900B9FD68 /* ContactUsInterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C5CFADC1AD4BAE900B9FD68 /* ContactUsInterfaceController.m */; };
+		3C5CFAE01AD4D80A00B9FD68 /* SettingsTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C5CFADF1AD4D80A00B9FD68 /* SettingsTableController.m */; };
 		A892B8511AB359D3007719D4 /* TestView.m in Sources */ = {isa = PBXBuildFile; fileRef = A892B8501AB359D3007719D4 /* TestView.m */; };
 		A892B8521AB359D3007719D4 /* TestView.m in Sources */ = {isa = PBXBuildFile; fileRef = A892B8501AB359D3007719D4 /* TestView.m */; };
 		A8A99FFC1AD41C7B00A26540 /* WatchKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A8A99FFB1AD41C7B00A26540 /* WatchKit.framework */; };
@@ -84,6 +85,8 @@
 		3C5CFAD91AD4BA6100B9FD68 /* HelpInterfaceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpInterfaceController.m; sourceTree = "<group>"; };
 		3C5CFADB1AD4BAE900B9FD68 /* ContactUsInterfaceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactUsInterfaceController.h; sourceTree = "<group>"; };
 		3C5CFADC1AD4BAE900B9FD68 /* ContactUsInterfaceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactUsInterfaceController.m; sourceTree = "<group>"; };
+		3C5CFADE1AD4D80A00B9FD68 /* SettingsTableController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsTableController.h; sourceTree = "<group>"; };
+		3C5CFADF1AD4D80A00B9FD68 /* SettingsTableController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsTableController.m; sourceTree = "<group>"; };
 		A892B84F1AB359D3007719D4 /* TestView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestView.h; sourceTree = "<group>"; };
 		A892B8501AB359D3007719D4 /* TestView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestView.m; sourceTree = "<group>"; };
 		A8A99FFB1AD41C7B00A26540 /* WatchKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WatchKit.framework; path = System/Library/Frameworks/WatchKit.framework; sourceTree = SDKROOT; };
@@ -214,6 +217,8 @@
 			children = (
 				3C5CFACD1AD4B4DE00B9FD68 /* DemoTableRowController.h */,
 				3C5CFACE1AD4B4DE00B9FD68 /* DemoTableRowController.m */,
+				3C5CFADE1AD4D80A00B9FD68 /* SettingsTableController.h */,
+				3C5CFADF1AD4D80A00B9FD68 /* SettingsTableController.m */,
 				A8A99FFD1AD4213D00A26540 /* images */,
 				A8E8E85F1AADDBF90052F222 /* InterfaceController.h */,
 				A8E8E8601AADDBF90052F222 /* InterfaceController.m */,
@@ -448,6 +453,7 @@
 				A892B8521AB359D3007719D4 /* TestView.m in Sources */,
 				A8E8E8641AADDBF90052F222 /* NotificationController.m in Sources */,
 				3C5CFADA1AD4BA6100B9FD68 /* HelpInterfaceController.m in Sources */,
+				3C5CFAE01AD4D80A00B9FD68 /* SettingsTableController.m in Sources */,
 				3C5CFAD71AD4B9CD00B9FD68 /* SettingsInterfaceController.m in Sources */,
 				3C5CFACF1AD4B4DE00B9FD68 /* DemoTableRowController.m in Sources */,
 				3C5CFADD1AD4BAE900B9FD68 /* ContactUsInterfaceController.m in Sources */,
